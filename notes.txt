@@ -1,0 +1,7 @@
+lazy deletion o nlogn
+update bubble up
+
+
+
+myset.erase(myset.find("xx"));
+
